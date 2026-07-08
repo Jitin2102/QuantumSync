@@ -2,7 +2,7 @@
 
 A collection of Operating Systems and System Programming projects implemented in C, covering CPU scheduling algorithms and classic Inter-Process Communication (IPC) problems.
 
-Built for academic practice, GATE DS/AI 2027 preparation, and portfolio demonstration.
+Built for academic practice, GATE CS IT 2027 preparation, and portfolio demonstration.
 
 ---
 
