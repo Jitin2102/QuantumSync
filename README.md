@@ -180,7 +180,7 @@ Average Turnaround Time : 6.67
 
 ## License
 
-This project is open for educational and personal portfolio use. Add a `LICENSE` file (e.g., MIT) if you intend to make it public and reusable by others.
+This project is open for educational and personal portfolio use.This uses MIT-License allowing learns to be engage with me.
 
 ---
 
