@@ -127,7 +127,7 @@ Classic concurrency and synchronization problems, each demonstrating a different
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/QuantumSync.git
+git clone https://github.com/Jitin2102/QuantumSync.git
 cd QuantumSync
 ```
 
